@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Kolise! 👋
+**Computer Science Student & Educator | PHP & MySQL Developer**
 
-<!--
-**kol-cmd/kol-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications that solve real-world problems. I'm currently working on e-commerce solutions and educational tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Jiloomac** (An E-commerce Platform)
+- 🌱 I’m currently learning **Advanced Database Management**
+- 👨‍💻 All my projects are available at [https://github.com/kol-cmd](https://github.com/kol-cmd)
+- 📝 I teach Computer Science to secondary school students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools
+`PHP` `MySQL` `JavaScript` `HTML/CSS` `Git`
+
+<img src="https://github-readme-stats.vercel.app/api?username=kol-cmd&show_icons=true&theme=radical" alt="kol-cmd's stats" />
