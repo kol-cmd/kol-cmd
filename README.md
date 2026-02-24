@@ -45,10 +45,8 @@ I build scalable backend systems and modern web applications — while teaching 
 
 ### 🛠 Tech Stack
 
-### 🛠 Tech Stack
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git" />
 </p>
 
 ---
@@ -65,10 +63,11 @@ I build scalable backend systems and modern web applications — while teaching 
 
 ### 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kol-cmd&show_icons=true&theme=radical&hide_border=true" height="180"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kol-cmd&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=kol-cmd&theme=radical&hide_border=true" height="180"/>
-</div>
+</p>>
 
 ###
 
