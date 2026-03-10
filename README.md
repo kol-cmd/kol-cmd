@@ -69,13 +69,6 @@ I build scalable backend systems and modern web applications — while teaching 
   <img src="https://streak-stats.demolab.com?user=kol-cmd&theme=radical&hide_border=true" height="180"/>
 </p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="pacman-contribution-graph.svg">
-</picture>
 
 ---
 
