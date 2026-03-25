@@ -36,7 +36,7 @@ I’m a **Computer Science Graduate from the University of Benin**, based in **L
 I build scalable, containerized backend systems and modern web applications — while maintaining a strong passion for tech education to empower the next generation of African developers.
 
 - 💼 Currently working as a **Backend Developer Intern at Jupita (Pivox Technology)**
-- 🔭 Building **Jiloomac (E-commerce platform)** and a **TikTok-style Blog Platform**
+- 🔭 Built **Jiloomac (E-commerce platform)** and a **TikTok-style Blog Platform**
 - 🎬 Developed a highly interactive **Netflix Clone** interface
 - 📚 Mastering **Laravel architecture, Dockerized environments, & advanced PostgreSQL database design**
 - 🧠 Passionate about clean code, system design, and exploring Web3/AI integrations
