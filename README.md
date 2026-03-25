@@ -25,20 +25,21 @@
 ###
 
 <h1 align="center">Hey 👋 I'm Ani Emmanuel</h1>
-<h3 align="center">Backend Engineer • Educator • Building Digital Products in Nigeria 🇳🇬</h3>
+<h3 align="center">Backend Developer • Educator • Building Digital Products in Nigeria 🇳🇬</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a **Computer Science & Education graduate from the University of Benin**, based in **Lagos, Nigeria**.
+I’m a **Computer Science Graduate from the University of Benin**, based in **Lagos, Nigeria**. 
 
-I build scalable backend systems and modern web applications — while teaching Computer Science to empower the next generation of African developers.
+I build scalable, containerized backend systems and modern web applications — while maintaining a strong passion for tech education to empower the next generation of African developers.
 
-- 🔭 Currently building **Jiloomac (E-commerce platform)**  
-- 🚀 Developing a **TikTok-style Blog Platform**
-- 📚 Mastering **Laravel architecture & advanced PHP backend systems**
-- 🧠 Passionate about clean code, system design & problem solving
+- 💼 Currently working as a **Backend Developer Intern at Jupita (Pivox Technology)**
+- 🔭 Building **Jiloomac (E-commerce platform)** and a **TikTok-style Blog Platform**
+- 🎬 Developed a highly interactive **Netflix Clone** interface
+- 📚 Mastering **Laravel architecture, Dockerized environments, & advanced PostgreSQL database design**
+- 🧠 Passionate about clean code, system design, and exploring Web3/AI integrations
 - ⚡ I bridge the gap between complex code and clear education
 
 ---
@@ -46,22 +47,20 @@ I build scalable backend systems and modern web applications — while teaching 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,js,html,css,git" />
 </p>
 
 ---
 
 ### 🚀 What I Focus On
 
-- 🔐 Backend Architecture (MVC, REST APIs, Authentication Systems)
-- 🛒 E-commerce System Design
-- 📊 Database Optimization (MySQL)
-- 🎓 Tech Education & Mentorship
-- 🌍 Building impactful African tech products
+- 🔐 **Backend Architecture:** MVC, RESTful APIs, and robust Authentication Systems (Sanctum/JWT)
+- 🐳 **DevOps & Containerization:** Streamlining development workflows with Docker & Laravel Sail
+- 🗄️ **Database Optimization:** Designing complex, relational schemas with PostgreSQL and MySQL
+- 🛒 **System Design:** Building scalable E-commerce architectures
+- 🎓 **Tech Education & Mentorship:** Translating complex concepts into accessible knowledge
 
 ---
-
-
 
 ### 💡 Developer Philosophy
 
@@ -74,9 +73,8 @@ I build scalable backend systems and modern web applications — while teaching 
 ### 📫 Let’s Connect
 
 If you're interested in:
-- Collaborating on projects
-- Hiring a backend developer
-- Building scalable web systems
-- Tech mentorship
+- Collaborating on backend or full-stack projects
+- Discussing Laravel, Docker, or database architecture
+- Tech mentorship and education
 
 Let’s build something powerful together 🚀
