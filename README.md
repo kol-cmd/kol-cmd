@@ -47,7 +47,7 @@ I build scalable, containerized backend systems and modern web applications — 
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,docker,js,html,css,git,aws,postman" />
 </p>
 
 ---
